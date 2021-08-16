@@ -7,4 +7,4 @@ Repositorio prueba
 Ejercicios de git
 
 
-![](src/historial_commits.jpg)
+![](src/historial_commits.png)
